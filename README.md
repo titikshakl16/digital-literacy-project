@@ -12,8 +12,8 @@
 - ​Module 2: Building a Digital Portfolio
 ​Module 2 emphasizes the importance of establishing a professional identity in the digital space. It guides students through setting up foundational profiles on key academic and industry platforms like GitHub and LinkedIn. The focus is on documenting one's educational background and skills to prepare for future career opportunities.  
 - ​Module 3: Programming Platforms & Collaborative Learning Platforms
-​This module explores tools designed for technical skill development and teamwork. It introduces competitive coding environments such as HackerRank to practice programming logic. Simultaneously, it covers cloud-based collaboration tools like Google Workspace, teaching students how to create surveys and manage data using Google Forms and Sheets.  
-​- Module 4: Email Etiquette & The Basics of Social Media Etiquette
+​This module explores tools designed for technical skill development and teamwork. It introduces competitive coding environments such as HackerRank to practice programming logic. Simultaneously, it covers cloud-based collaboration tools like Google Workspace, teaching students how to create surveys and manage data using Google Forms and Sheets.
+-  Module 4: Email Etiquette & The Basics of Social Media Etiquette
 ​Module 4 addresses the critical "soft skills" of online communication. It provides training on drafting professional emails to professors and recruiters, emphasizing the need for clear subject lines and appropriate tone. Additionally, it covers responsible social media behavior, helping students maintain a positive digital footprint through a clear set of "Do’s and Don’ts".  
 - ​Module 5: Awareness on Cyber Crime and Financial Fraudulent
 ​The final module is dedicated to recognizing and preventing online threats. It provides a deep dive into common scams such as Phishing and UPI fraud, teaching students how to identify the tactics used by cybercriminals. Crucially, it highlights the importance of reporting incidents through official channels like the National Cyber Crime Portal (1930).
