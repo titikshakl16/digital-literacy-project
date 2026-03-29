@@ -24,6 +24,7 @@ Created/updated my profiles on professional and learning platforms to improve my
 
 ### Task 3
 I explored a beginner coding platform and also created a short quiz using Google Forms on digital literacy awareness.
+https://docs.google.com/forms/d/e/1FAIpQLScSshNJpeteh6ASrtsFr8QSpXvWiE2odoyeO-BJSobkQVpzRQ/viewform?usp=header
 
 ### Task 4
 This section includes two professional emails, a short scenario-based write-up, and a checklist of social media do’s and don’ts.
